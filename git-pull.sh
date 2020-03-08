@@ -1,1 +1,1 @@
-git pull git@github.com:wszqkzqk/wszqkzqk.github.io.git
+git pull git@github.com:silicateos/silicateos.github.io.git
